@@ -1,0 +1,197 @@
+lexy@Lex-World:~/Documents/hackfs-rose$ git log
+commit 664c5a16dc8d62ee19e26f8e0a1f0673e5f9e23b (HEAD -> mvp.0.1.0, origin/mvp.0.1.0)
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 20:56:14 2024 -0400
+
+    Just Staging to clear up main branch before mvp
+
+commit 1369a2b8c59fba09e095c13e48d28d46f50b9710
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 20:54:01 2024 -0400
+
+    Working on Landing Page:
+
+commit fa82179d5b4a28a666ac340df7910d70390226e6
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 14:56:43 2024 -0400
+
+    Working on DeDup
+
+commit a7d5bf54e3e393ed8af99c94f891db929ba6fa32
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 00:11:34 2024 -0400
+
+    Working on formatting backend files for de-duplication
+
+commit 7777207e611a2cde94649fffd3190b585e30a1c1
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Sun May 26 15:47:19 2024 -0400
+
+    Unstaged files
+
+commit cf04c019ae99eabe31414c89726cf484de3e20fd
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Sun May 26 15:46:44 2024 -0400
+
+    Added Working Searchbar
+
+commit ca227db25f665aeba2dfd9e8ab02ae84d6bd0718
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Fri May 24 23:28:38 2024 -0400
+
+    NFT Retrieved Successfully!
+
+commit db21cebca83835683cac4b57ac29f5a01391c4d4
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Fri May 24 22:40:41 2024 -0400
+
+    Added NFT Minter
+
+commit 12c015539cf3cfbbd3500abfbaf3eea94de852f6
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Thu May 23 08:32:23 2024 -0400
+
+    Working on generating NFT for previous uploaded images
+
+commit 51c901df3d66d7caf3204ecb6dddc6476340b000
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Thu May 23 08:30:43 2024 -0400
+
+    Working on generating NFT for previous uploaded images
+
+commit 60bb6f561e9517e53e2adc14979ee1086729363a
+Author: Sangya Sherpa <13x54r@gmail.com>
+...skipping...
+commit 664c5a16dc8d62ee19e26f8e0a1f0673e5f9e23b (HEAD -> mvp.0.1.0, origin/mvp.0.1.0)
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 20:56:14 2024 -0400
+
+    Just Staging to clear up main branch before mvp
+
+commit 1369a2b8c59fba09e095c13e48d28d46f50b9710
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 20:54:01 2024 -0400
+
+    Working on Landing Page:
+
+commit fa82179d5b4a28a666ac340df7910d70390226e6
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 14:56:43 2024 -0400
+
+    Working on DeDup
+
+commit a7d5bf54e3e393ed8af99c94f891db929ba6fa32
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 00:11:34 2024 -0400
+
+    Working on formatting backend files for de-duplication
+
+commit 7777207e611a2cde94649fffd3190b585e30a1c1
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Sun May 26 15:47:19 2024 -0400
+
+    Unstaged files
+
+commit cf04c019ae99eabe31414c89726cf484de3e20fd
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Sun May 26 15:46:44 2024 -0400
+
+    Added Working Searchbar
+
+commit ca227db25f665aeba2dfd9e8ab02ae84d6bd0718
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Fri May 24 23:28:38 2024 -0400
+
+    NFT Retrieved Successfully!
+
+commit db21cebca83835683cac4b57ac29f5a01391c4d4
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Fri May 24 22:40:41 2024 -0400
+
+    Added NFT Minter
+
+commit 12c015539cf3cfbbd3500abfbaf3eea94de852f6
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Thu May 23 08:32:23 2024 -0400
+
+    Working on generating NFT for previous uploaded images
+
+commit 51c901df3d66d7caf3204ecb6dddc6476340b000
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Thu May 23 08:30:43 2024 -0400
+
+    Working on generating NFT for previous uploaded images
+
+commit 60bb6f561e9517e53e2adc14979ee1086729363a
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Wed May 22 19:55:23 2024 -0400
+
+...skipping...
+Date:   Mon May 27 20:56:14 2024 -0400
+
+    Just Staging to clear up main branch before mvp
+
+commit 1369a2b8c59fba09e095c13e48d28d46f50b9710
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 20:54:01 2024 -0400
+
+    Working on Landing Page:
+
+commit fa82179d5b4a28a666ac340df7910d70390226e6
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 14:56:43 2024 -0400
+
+    Working on DeDup
+
+commit a7d5bf54e3e393ed8af99c94f891db929ba6fa32
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Mon May 27 00:11:34 2024 -0400
+
+    Working on formatting backend files for de-duplication
+
+commit 7777207e611a2cde94649fffd3190b585e30a1c1
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Sun May 26 15:47:19 2024 -0400
+
+    Unstaged files
+
+commit cf04c019ae99eabe31414c89726cf484de3e20fd
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Sun May 26 15:46:44 2024 -0400
+
+    Added Working Searchbar
+
+commit ca227db25f665aeba2dfd9e8ab02ae84d6bd0718
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Fri May 24 23:28:38 2024 -0400
+
+    NFT Retrieved Successfully!
+
+commit db21cebca83835683cac4b57ac29f5a01391c4d4
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Fri May 24 22:40:41 2024 -0400
+
+    Added NFT Minter
+
+commit 12c015539cf3cfbbd3500abfbaf3eea94de852f6
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Thu May 23 08:32:23 2024 -0400
+
+    Working on generating NFT for previous uploaded images
+
+commit 51c901df3d66d7caf3204ecb6dddc6476340b000
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Thu May 23 08:30:43 2024 -0400
+
+    Working on generating NFT for previous uploaded images
+
+commit 60bb6f561e9517e53e2adc14979ee1086729363a
+Author: Sangya Sherpa <13x54r@gmail.com>
+Date:   Wed May 22 19:55:23 2024 -0400
+
+lexy@Lex-World:~/Documents/hackfs-rose$ git revert 664c5a16dc8d62ee19e26f8e0a1f0673e5f9e23b
+error: Reverting is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: revert failed
+
