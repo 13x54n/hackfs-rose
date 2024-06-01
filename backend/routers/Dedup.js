@@ -4,6 +4,8 @@ const path = require("path");
 const ipfsOnlyHash = require("ipfs-only-hash");
 const multer = require("multer");
 const dedupRouter = express.Router();
+const {ethers} = require("ethers")
+const iJackABI = require("../helpers/IJackABI.json")
 
 const uploadDir = path.join(__dirname, "../public", "uploads");
 
@@ -25,8 +27,6 @@ dedupRouter.post("/dedup", upload.single("file"), async (req, res) => {
     const uploadedFile = req.file;
     const fileBuffer = await fs.readFile(uploadedFile.path);
     const cid = await ipfsOnlyHash.of(fileBuffer);
-
-    // send cid to blockchain and check
 
     res.json({ cid });
   } catch (err) {

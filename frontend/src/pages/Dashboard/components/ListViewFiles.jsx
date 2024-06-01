@@ -90,9 +90,6 @@ export default function ListViewFiles({ uploads }) {
           </tr>
         </thead>
         <tbody>
-          {
-            console.log(uploads)
-          }
           {uploads &&
             uploads
               .filter((d) => !d.fileName.endsWith(".json"))

@@ -6,6 +6,7 @@ import RoseAI from "./pages/RoseAI";
 import UploadFileComponent from "./components/FileUploader";
 import NFT from "./pages/NFT";
 import { FilesContext } from "../../contexts/Files";
+import Analytics from "./pages/Analytics";
 
 export default function Dashboard() {
   const [activetab, setActiveTab] = useState("all");
@@ -132,6 +133,8 @@ export default function Dashboard() {
         {activetab === "rose_ai" && <RoseAI />}
 
         {activetab === "nft" && <NFT />}
+
+        {activetab === "analytics" && <Analytics />}
       </div>
     </div>
   );
