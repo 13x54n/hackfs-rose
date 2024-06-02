@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import { toast } from "react-toastify";
-import { createThirdwebClient, getContract, waitForReceipt } from "thirdweb";
+import { createThirdwebClient, getContract } from "thirdweb";
 import { sepolia } from "thirdweb/chains";
 import { useActiveAccount, useSendTransaction } from "thirdweb/react";
 import ContractABI from "../../../helpers/ContractABI.json";
@@ -57,7 +57,8 @@ export default function ListViewFiles({ uploads }) {
       // const gasCost = await tx.estimateGasCost(); // Estimate the gas cost
       // const simulatedTx = await tx.simulate(); // Simulate the transaction
 
-      await sendTransaction(tx);
+      const receipt = await sendTransaction(tx);
+      console.log(receipt)
 
       toast(
         "🦄 You'll shortly receive a notification once minting is processed! "
@@ -123,6 +124,7 @@ export default function ListViewFiles({ uploads }) {
                           d.fileName.endsWith(".jpg") ||
                           d.fileName.endsWith(".jpeg") ||
                           d.fileName.endsWith(".gif") ||
+                          d.fileName.endsWith(".pdf") ||
                           d.fileName.endsWith(".webp")) && (
                           <button
                             title="Mint"

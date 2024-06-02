@@ -10,10 +10,6 @@ const SidebarItems = [
     href: "nft",
   },
   {
-    _tabName: "🤖 Rose AI",
-    href: "rose_ai",
-  },
-  {
     _tabName: "📊 Analytics",
     href: "analytics",
   },

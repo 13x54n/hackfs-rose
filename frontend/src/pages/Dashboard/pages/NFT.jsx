@@ -45,6 +45,7 @@ export default function NFT() {
                     d.fileName.endsWith(".jpg") ||
                     d.fileName.endsWith(".jpeg") ||
                     d.fileName.endsWith(".gif") ||
+                    d.fileName.endsWith(".pdf") ||
                     d.fileName.endsWith(".webp")
                 )
                 ?.map((d, i) => {
